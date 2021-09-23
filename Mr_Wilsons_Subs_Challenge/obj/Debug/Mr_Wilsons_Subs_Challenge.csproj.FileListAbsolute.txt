@@ -1,0 +1,15 @@
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\bin\Debug\Mr_Wilsons_Subs_Challenge.exe.config
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\bin\Debug\Mr_Wilsons_Subs_Challenge.exe
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\bin\Debug\Mr_Wilsons_Subs_Challenge.pdb
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\obj\Debug\Mr_Wilsons_Subs_Challenge.csprojAssemblyReference.cache
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\obj\Debug\MainWindow.g.cs
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\obj\Debug\App.g.cs
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\obj\Debug\Mr_Wilsons_Subs_Challenge_MarkupCompile.cache
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\obj\Debug\Mr_Wilsons_Subs_Challenge_MarkupCompile.lref
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\obj\Debug\MainWindow.baml
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\obj\Debug\Mr_Wilsons_Subs_Challenge.g.resources
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\obj\Debug\Mr_Wilsons_Subs_Challenge.Properties.Resources.resources
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\obj\Debug\Mr_Wilsons_Subs_Challenge.csproj.GenerateResource.cache
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\obj\Debug\Mr_Wilsons_Subs_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\obj\Debug\Mr_Wilsons_Subs_Challenge.exe
+C:\Users\MaconRM180\Documents\Github\Isaiah Skelton\Mr_Wilsons_Subs_Challenge\Mr_Wilsons_Subs_Challenge\obj\Debug\Mr_Wilsons_Subs_Challenge.pdb
