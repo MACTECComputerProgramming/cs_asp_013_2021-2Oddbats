@@ -33,9 +33,9 @@
         <CheckBox x:Name="checkBoxLettuce" Content="Lettuce (+ $ .15)" HorizontalAlignment="Left" Height="33" Margin="483,286,0,0" VerticalAlignment="Top" Width="108"/>
         <CheckBox x:Name="checkBoxOnion" Content="Red Onion (+ $ .10)" HorizontalAlignment="Left" Height="33" Margin="483,312,0,0" VerticalAlignment="Top" Width="129"/>
         <Label x:Name="labelSpecial" Content="Special *** $2.00 Off Foot Long/Wheat/Meatball/Americn Cheese" HorizontalAlignment="Left" Height="36" Margin="10,374,0,0" VerticalAlignment="Top" Width="368"/>
-        <Button x:Name="buttonOrder" Content="Place Order" HorizontalAlignment="Left" Height="36" Margin="385,374,0,0" VerticalAlignment="Top" Width="114" Click="buttonOrder_Click"/>
+        <Button x:Name="buttonOrder" Content="Place Order" HorizontalAlignment="Left" Height="36" Margin="385,379,0,0" VerticalAlignment="Top" Width="114" Click="buttonOrder_Click"/>
         <CheckBox x:Name="checkBoxAll" Content="All ($ .25)" HorizontalAlignment="Left" Height="32" Margin="483,333,0,0" VerticalAlignment="Top" Width="87"/>
-        <Label x:Name="labelResult" Content="(Your Sub Here)" HorizontalAlignment="Left" Height="55" Margin="545,365,0,0" VerticalAlignment="Top" Width="165"/>
+        <Label x:Name="labelResult" Content="(Your Sub Here)" HorizontalAlignment="Left" Height="22" Margin="12,352,0,0" VerticalAlignment="Top" Width="748" FontSize="9"/>
 
     </Grid>
 </Window>
